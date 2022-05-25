@@ -2,8 +2,7 @@
 
 
 Sobre min:
-- 👩‍💻 Sou apaixonada em Resolver problemas por meio do Desenvolvimento de APIs com NodeJS, modelagem e administração de Dados em Bancos de Dados Relacionais como MySQL, PostgreSQL e SQL Server.
-Formada em Licenciatura em Matemática, em busca da transição de carreira em Desenvolvimento de Software.
+- 👩‍💻 Sou apaixonada em Resolver problemas por meio do Desenvolvimento de APIs com NodeJS, modelagem e administração de Dados em Bancos de Dados Relacionais como MySQL, PostgreSQL e SQL Server. Sou formada em Licenciatura em Matemática, em busca da transição de carreira em Desenvolvimento de Software.
 Me considero uma pessoa dedicada, tenho iniciativa em questionar o que desconheço, entusiasta em resolver desafios por meio do JavaScript.
 - 🔭 Atualmente eu trabalho com Back End
 - 🌱 Estudando Arquitetura limpa de APIs Rest em Node.JS
@@ -15,8 +14,7 @@ Me considero uma pessoa dedicada, tenho iniciativa em questionar o que desconhe�
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">  
