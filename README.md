@@ -2,7 +2,7 @@
 
 
 Sobre min:
-- 👩‍💻 Sou apaixonada em Resolver problemas por meio do Desenvolvimento de APIs com Javascript, modelagem e administração de Dados em Bancos de Dados Relacionais como MySQL, PostgreSQL e SQL Server. Sou formada em Licenciatura em Matemática, em busca da transição de carreira em Desenvolvimento de Software.
+- 👩‍💻 Sou apaixonada em Resolver problemas por meio do Desenvolvimento de APIs em Javascript, modelagem e administração de Dados em Bancos de Dados Relacionais como MySQL, PostgreSQL e SQL Server. Sou formada em Licenciatura em Matemática, em busca da transição de carreira em Desenvolvimento de Software.
 Me considero uma pessoa dedicada, tenho iniciativa em questionar o que desconheço, entusiasta em resolver desafios por meio do JavaScript.
 - 🔭 Atualmente eu trabalho com Back End
 - 🌱 Estudando Arquitetura limpa de APIs Rest em Node.JS
