@@ -32,8 +32,7 @@ Me considero uma pessoa dedicada, tenho iniciativa em questionar o que desconhe�
   </div> 
   <br>
   <div> 
-    <p >🔎 Onde você me encontra:</p><br>
-    <a href="https://www.instagram.com/limadeoliveiranatalia/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <p >🔎 Onde você me encontra:</p><br/>
     <a href="https://www.linkedin.com/in/natalia-lima-oliveira-969330124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 </div>
