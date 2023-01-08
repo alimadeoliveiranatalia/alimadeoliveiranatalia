@@ -2,10 +2,10 @@
 
 
 Sobre min:
-- 👩‍💻 Sou apaixonada em Resolver problemas por meio do Desenvolvimento de APIs em Javascript, modelagem e administração de Dados em Bancos de Dados Relacionais como MySQL, PostgreSQL e SQL Server. Sou formada em Licenciatura em Matemática, em busca da transição de carreira em Desenvolvimento de Software.
+- 👩‍💻 Sou apaixonada em Resolver problemas por meio do Desenvolvimento de APIs Rest e interfaces (SPA) em Javascript. Sou formada em Licenciatura em Matemática, em busca da transição de carreira em Desenvolvimento de Software.
 Me considero uma pessoa dedicada, tenho iniciativa em questionar o que desconheço, entusiasta em resolver desafios por meio do JavaScript.
-- 🔭 Atualmente eu trabalho com Back End
-- 🌱 Estudando Arquitetura limpa de APIs Rest em Node.JS
+- 🔭 Atualmente eu trabalho com Back-End e Font-End no ecossistema do JavaScript
+- 🌱 Estudando interfaces declarativas no ReactJS
 - 📫 Contate-me em: alimadeoliveiranatalia@gmail.com
 <br>
 <p>Principais tecnologias que eu trabalho:</p>
@@ -19,10 +19,12 @@ Me considero uma pessoa dedicada, tenho iniciativa em questionar o que desconhe�
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">  
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />  
+  <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </div>
 <br>
 <div>
