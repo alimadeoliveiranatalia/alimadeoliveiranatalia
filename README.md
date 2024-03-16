@@ -2,7 +2,7 @@
 
 
 Sobre min:
-- 👩‍💻 Sou apaixonada em Resolver problemas por meio do Desenvolvimento de APIs Rest e interfaces (SPA) em Javascript. Sou formada em Licenciatura em Matemática, em busca da transição de carreira em Desenvolvimento de Software.
+- 👩‍💻 Sou apaixonada em Resolver problemas por meio do Desenvolvimento de APIs Rest e interfaces (SPA) em Javascript com React. Sou pós-graduada em Engenharia de Software, em busca de contribuir com a comunidade open-source no ecossistema JavaScript.
 Me considero uma pessoa dedicada, tenho iniciativa em questionar o que desconheço, entusiasta em resolver desafios por meio do JavaScript.
 - 🔭 Atualmente eu trabalho com Back-End e Font-End no ecossistema do JavaScript
 - 🌱 Estudando interfaces declarativas no ReactJS
