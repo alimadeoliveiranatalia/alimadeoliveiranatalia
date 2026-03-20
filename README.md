@@ -2,10 +2,21 @@
 
 
 Sobre min:
-- 👩‍💻 Sou apaixonada em Resolver problemas por meio do Desenvolvimento de APIs Rest e interfaces (SPA) em Javascript com React. Sou pós-graduada em Engenharia de Software, em busca de contribuir com a comunidade open-source no ecossistema JavaScript.
-Me considero uma pessoa dedicada, tenho iniciativa em questionar o que desconheço, entusiasta em resolver desafios por meio do JavaScript.
-- 🔭 Atualmente eu trabalho com Back-End e Font-End no ecossistema do JavaScript
-- 🌱 Estudando interfaces declarativas no ReactJS
+- 👩‍💻 Engenheira de Software focada no desenvolvimento de aplicações no ecossistema JavaScript, com experiência em construção de aplicações escaláveis tanto no front-end quanto no back-end.
+
+Minhas habilidades se resumem:
+
+✅ Desenvolvimento de interfaces centradas no usuário com Next.js 
+
+✅ Possuo sólidos conhecimentos em desenvolvimento de APIs em Node.js que seguem o padrão REST (Express/Fastify) no servidor fazendo uso do TypeScript para garantir a tipagem. Além do consumo de APIs em GraphQL. 
+
+✅ Já efetuei modelagem, implantação e migração de bancos de Dados relacionais como PostgreSQL em ambientes em nuvem (Azure).
+
+✅  Implantei processos de Automação na plataforma Power Automate.
+
+📚 Atualmente venho explorando o universo da Inteligência Artificial aplicada a Engenharia de Software: implantação de Agentes.
+
+Ao sugerir uma aplicação, busco dá enfase à compreender com detalhamento a problemática dos clientes e usuários de tal forma à propor soluções que gerem valor.
 - 📫 Contate-me em: alimadeoliveiranatalia@gmail.com
 <br>
 <p>Principais tecnologias que eu trabalho:</p>
